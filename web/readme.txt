@@ -5,6 +5,10 @@
     AngularJS-006 - $scope里的$apply、$digest方法    http://v.youku.com/v_show/id_XMTQwMDEzOTczMg==.html?f=26309525&from=y1.2-3.2
 
 
+--- http://kittencup.com
+
+--- https://github.com/kittencup/angularjs-video
+--- https://github.com/kittencup/angularjs-video-code
 
 
 
