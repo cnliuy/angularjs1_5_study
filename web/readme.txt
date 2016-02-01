@@ -5,12 +5,16 @@
     AngularJS-006 - $scope里的$apply、$digest方法    http://v.youku.com/v_show/id_XMTQwMDEzOTczMg==.html?f=26309525&from=y1.2-3.2
 
 
+
 --- http://kittencup.com
 
 --- https://github.com/kittencup/angularjs-video
 --- https://github.com/kittencup/angularjs-video-code
 
 
+    Json_Angularjs_1_0_8 ----- 获取json内容 展现到页面上 （基于旧版本的 Angularjs 1.0.8）
+                               展示json数据
+            参考 https://spring.io/guides/gs/consuming-rest-angularjs/
 
 
 

@@ -9,8 +9,10 @@
      <meta http-equiv="refresh" content="0;url=${ctx}/test2-ng-model.jsp">
      <meta http-equiv="refresh" content="0;url=${ctx}/test3-ng-controller.jsp">
      <meta http-equiv="refresh" content="0;url=${ctx}/test4-ng-bind.jsp">
+     <meta http-equiv="refresh" content="0;url=${ctx}/5/test5-mutil-ng-bind.jsp">
+      <meta http-equiv="refresh" content="0;url=${ctx}/Spring_AngularJS_Integration/index.jsp">
     -->
-    <meta http-equiv="refresh" content="0;url=${ctx}/5/test5-mutil-ng-bind.jsp">
+    <meta http-equiv="refresh" content="0;url=${ctx}/Json_Angularjs_1_0_8/index.jsp">
 
 
   </head>
