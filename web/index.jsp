@@ -12,9 +12,11 @@
      <meta http-equiv="refresh" content="0;url=${ctx}/5/test5-mutil-ng-bind.jsp">
      <meta http-equiv="refresh" content="0;url=${ctx}/Spring_AngularJS_Integration/index.jsp">
      <meta http-equiv="refresh" content="0;url=${ctx}/Json_Angularjs_1_0_8/index.jsp">
+     <meta http-equiv="refresh" content="0;url=${ctx}/Json_Angularjs_1_5/index.jsp">
     -->
+      <meta http-equiv="refresh" content="0;url=${ctx}/Json_Post/postpage.jsp">
 
-      <meta http-equiv="refresh" content="0;url=${ctx}/Json_Angularjs_1_5/index.jsp">
+
 
   </head>
   <body>
