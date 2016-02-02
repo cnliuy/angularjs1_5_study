@@ -63,6 +63,10 @@
 </head>
 <body>
 
+<br>
+说明：   本页面post后对应的 Java类( Servlet )是 src下的 servlet.postform.
+<br>
+
 <form data-ng-submit="submit()" data-ng-controller="FormSubmitController">
   <h3>{{headerText}}</h3>
   <p>Name: <input type="text" data-ng-model="name"></p>
@@ -82,5 +86,8 @@
 </a>
 <br>
 AngularJS Form Post Spring MVC JSON
+<br>
+
+
 </body>
 </html>
