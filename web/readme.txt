@@ -17,6 +17,12 @@
             参考 https://spring.io/guides/gs/consuming-rest-angularjs/
 
 
+    AngularJS Tutorial
+        http://www.tutorialspoint.com/angularjs/
+        实例：
+        http://www.tutorialspoint.com/angularjs/angularjs_notepad_application.htm
+
+
 
 
 
