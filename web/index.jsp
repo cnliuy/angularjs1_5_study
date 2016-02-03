@@ -15,7 +15,7 @@
      <meta http-equiv="refresh" content="0;url=${ctx}/Json_Angularjs_1_5/index.jsp"><meta http-equiv="refresh" content="0;url=${ctx}/Json_Post/postpage.jsp">
     -->
 
-      <meta http-equiv="refresh" content="0;url=${ctx}/upload_file/uploadfile.jsp">
+      <meta http-equiv="refresh" content="0;url=${ctx}/UploadFile/uploadfile.jsp">
 
 
 

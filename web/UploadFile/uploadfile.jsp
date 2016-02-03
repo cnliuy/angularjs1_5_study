@@ -14,7 +14,7 @@
 
   <body ng-app="myApp" class="ng-scope">
     <script src="${ctx}/js/angular1.5.0/angular.min.js"></script>
-    <script src="${ctx}/upload_file/upload.js"></script>
+    <script src="${ctx}/UploadFile/upload.js"></script>
 
 
     示例链接1：<br>
