@@ -46,7 +46,7 @@ public class postform extends HttpServlet {
             //System.out.println(line);
             returnString = returnString+line ;
         }
-        System.out.println("returnString:"+returnString);
+        System.out.println("后台Java 获取的参数 returnString:"+returnString);
         response.setContentType("application/json");
         response.getWriter().write(returnString);
 

@@ -54,19 +54,24 @@
                         }
                         $S.content1 = 'Hello Ueditor';
 
-                        var formData =  $S.content1;
-                        var response = $http.post('${ctx}/postform', formData);
-                        response.success(function(data, status, headers, config) {
-                            //data = {"name":"5","location":"55","phone":"5"};
-                            $S.list.push(data);
-                            //alert( "--" + JSON.stringify({data: data}));
-                        });
-                        response.error(function(data, status, headers, config) {
-                            alert( "Exception details: " + JSON.stringify({data: data}));
-                        });
 
-                    }]);
+                $S.submit = function() {
+                    var formData =  $S.content1;
+                    alert("formData:"+formData);
+                    var response = $http.post('${ctx}/postform', formData);
+                    response.success(function(data, status, headers, config) {
+                        alert("formData2:"+formData);
+                        //data = {"name":"5","location":"55","phone":"5"};
+                        $S.list.push(data);
+                        //alert( "--" + JSON.stringify({data: data}));
+                        alert("formData3:"+formData);
+                    });
+                    response.error(function(data, status, headers, config) {
+                        alert( "Exception details: " + JSON.stringify({data: data}));
+                    });
 
+                }
+        }]);
     </script>
     <!-- liuy add stop Angular-->
 
@@ -91,7 +96,7 @@
                     <br>
                     显示内容：<textarea ng-model="content1"></textarea>
 
-                    <input type="submit" id="submit" value="Submit" /><br>
+                    <input type="submit" id="submit" value="提交内容" /><br>
 
 
 
